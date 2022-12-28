@@ -1,7 +1,7 @@
 # About Design
-Beautiful Weather app template done in flutter. The app shows a summary of todays weather conditions and give a 7 day forecast. This is one of many flutter templates from the [Flutter Mockups](https://fluttermockups.com) project.
+Beautiful Weather app template done in flutter. The app shows a summary of today's weather conditions and give a 7 day forecast. This is one of many flutter templates from the [Flutter Mockups](https://fluttermockups.com) project.
 
-<img src="docs/assets/images/Home_screen.jpeg" alt="drawing" width="200"/> <img src="docs/assets/images/forecast_screen.jpeg" alt="drawing" width="200"/>
+<img src="docs/assets/images/Home_screen.jpeg" alt="drawing" width="200"/> <img src="docs/assets/images/Forecast_screen.jpeg" alt="drawing" width="200"/>
 
 # Designer Info
 Instagram: [sadewo](https://instagram.com/sadewowww?igshid=YmMyMTA2M2Y=)
@@ -22,7 +22,7 @@ Try out this template and others by downloading the Flutter Mockup App.
 
 # Features
 * Ready to install
-* App users mock APIs
+* Mock APIs
 
 # Installation
 Visit [https://flutter.dev](https://flutter.dev) for instructions to get up and running.
