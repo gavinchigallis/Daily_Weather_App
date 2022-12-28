@@ -8,3 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 #Example:
 ## [0.0.1] Enhancements Release 2022-11-04
 - [TN000]  Details related to the change.
+
+## [1.0.0] Production Release 2022-12-27
+- [_____]  Added documentation.
+- [_____]  Completed initial design.
