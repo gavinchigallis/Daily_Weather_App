@@ -16,7 +16,7 @@ Website: [https://portfolio.gavinpalmer.me](https://portfolio.gavinpalmer.me)
 # Demo
 Try out this template and others by downloading the Flutter Mockup App.
 
-[<img src="docs/assets/icons/playstore.png" alt="drawing" width="100"/>](https://play.google.com/store/apps/details?id=com.gptechltd.flutter_widget_app&hl=en&gl=US) [<img src="docs/assets/icons/appstore.png" alt="drawing" width="85"/>](https://fluttermockups.com) 
+[<img src="docs/assets/icons/playstore.png" alt="drawing" width="100"/>](https://play.google.com/store/apps/details?id=com.gptechltd.flutter_widget_app&hl=en&gl=US) [<img src="docs/assets/icons/appstore.png" alt="drawing" width="85"/>](https://apps.apple.com/us/app/flutter-mockups/id1661776358) 
 
 
 
