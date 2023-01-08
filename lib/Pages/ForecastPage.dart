@@ -342,17 +342,22 @@ class _ForecastPageState extends State<ForecastPage> with WidgetsBindingObserver
                         height: 20,
                       ),
                       Container(
-                        height: deviceSize.height - 305,
-                        child: ListView(
+                        //height: deviceSize.height - 305,
+                        child: Column(
                           key: GlobalKey(),
-                          children: widgetDataObject.getRange(1, 6).toList().asMap().entries.map((weatherUpdate){
-                            return HourlyCardLargeWidget(
-                              key: Key("hourly_"+weatherUpdate.value.id.toString()),
-                              stateId: WIDGET_STATE.HAS_DATA,
-                              widgetDataObject: weatherUpdate.value,
-                              active: weatherUpdate.key == 0 ? true : false,
-                            );
-                          }).toList(),
+                          children: [
+                            ...widgetDataObject.getRange(1, 6).toList().asMap().entries.map((weatherUpdate){
+                              return HourlyCardLargeWidget(
+                                key: Key("hourly_"+weatherUpdate.value.id.toString()),
+                                stateId: WIDGET_STATE.HAS_DATA,
+                                widgetDataObject: weatherUpdate.value,
+                                active: weatherUpdate.key == 0 ? true : false,
+                              );
+                            }).toList(),
+                            const SizedBox(
+                              height: 20,
+                            )
+                          ],
                         )
                       )
                     ],
