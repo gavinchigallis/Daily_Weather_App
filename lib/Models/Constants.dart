@@ -4,4 +4,4 @@
 *   Production:
 *     packagePath = ""
 */
-const packagePath = "packages/daily_weather_app/";
+const packagePath = "";
